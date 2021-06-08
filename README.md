@@ -4,11 +4,25 @@
 
 ### Submission
 
+## Version
+
 Truffle v5.3.9 (core: 5.3.9)
 Solidity v0.5.16 (solc-js)
 Node v14.17.0
 Web3.js v1.3.6
 openzeppelin-solidity v2.5.1
+
+## ERC-721 Token Name
+
+StarNotaryToken
+
+## ERC-721 Token Symbol
+
+SNT
+
+## Token Address on Rinkeby Network
+
+https://rinkeby.etherscan.io/address/0xcC2fA6aAdB80E02EdA32C0a51c3299859504B2cb
 
 ### ToDo
 
